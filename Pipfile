@@ -9,7 +9,7 @@ djangorestframework = "*"
 whitenoise = "*"
 gunicorn = "*"
 psycopg2-binary = "*"
-#django-heroku = "*"
+django-heroku = "*"
 requests = "*"
 django-cors-headers = "*"
 
